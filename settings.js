@@ -20,10 +20,10 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = 'Your Name'
+global.owner = ['254780986757']
+global.premium = ['254780986757']
+global.ownernomer = '254780986757'
+global.ownername = 'testing bot'
 global.region = 'Nairobi, Nairobi, Kenya'
 
     global.limitawal = {
