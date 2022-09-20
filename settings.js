@@ -25,6 +25,7 @@ global.premium = ['254780986757']
 global.ownernomer = '254780986757'
 global.ownername = 'testing bot'
 global.region = 'Nairobi, Nairobi, Kenya'
+global.sessionName = 'session'
 
     global.limitawal = {
     premium: "Infinity",
